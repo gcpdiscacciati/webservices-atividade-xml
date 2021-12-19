@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE pessoa SYSTEM "pessoa.dtd">
+<pessoa>
+    <nome>Tarsila</nome>
+    <sobrenome>Amaral</sobrenome>
+</pessoa>
